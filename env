@@ -1,0 +1,18 @@
+NODE_PORT=3030
+NODE_PASS=UpGUQmH83ber2uqypUym96MP2fTQGtuH
+
+NODE_SECRET=1u97B2BCmu5BIwAb74H9zFOh8MFteZLr
+NODE_HASH=6NaaxmWhKF2JKHL3fxoRu8RXgrRXTiXa
+
+## Source API
+SRC_URI=https://api.v3.bettair.city
+SRC_ID=burak.yurtoglu@tetrainc.com.tr
+SRC_SECRET=s_KXhDQiB9V9BzdUZPf4yvTBBk4msp
+
+## Target API
+DEST_URI=http://simservice.csb.gov.tr:9090
+DEST_EMAIL=burak.yurtoglu
+DEST_PASS=TetraCsb35
+
+## Optional
+NODE_ENV='dev'
